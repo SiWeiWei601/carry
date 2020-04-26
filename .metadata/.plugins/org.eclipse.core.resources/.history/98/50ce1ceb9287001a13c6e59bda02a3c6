@@ -1,0 +1,5 @@
+package com.memoto;
+
+public class UserInfoDTO {
+
+}
